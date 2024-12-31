@@ -12,7 +12,7 @@ This script configures and manages iptables rules to route network traffic throu
 ## Installation
 Clone the repository:
 ```sh
-git clone https://github.com/yourusername/tortables.git
+git clone https://github.com/herawenn/tortables.git
 cd tortables
 ```
 Install dependencies:
